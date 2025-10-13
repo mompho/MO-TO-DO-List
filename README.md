@@ -21,34 +21,6 @@ Automatically save tasks to a file for persistence
 
 View summaries and completion percentages
 
-🧩 Features
-Feature	Description
-➕ Add Task	Add new tasks with description, due date, and priority level
-📜 View Tasks	Display all tasks in a formatted table with status indicators
-✅ Mark Completed	Mark any task as completed
-❌ Delete Task	Remove tasks that are no longer needed
-🔍 Search Tasks	Find tasks by keyword within their description
-🔼 Sort Tasks	Sort tasks by priority (High → Low)
-📊 Summary Report	Displays total, completed, pending, and completion percentage
-💾 File Handling	Automatically loads and saves tasks from tasks.txt
-⚙️ Concepts Demonstrated
-
-This project showcases key C++ programming concepts:
-
-Structs: Representing tasks with related fields
-
-Arrays & Pointers: Managing multiple tasks dynamically
-
-Functions: Clean modular design and reusability
-
-Sorting & Searching: Implemented manually using loops and pointer arithmetic
-
-File I/O: Persistent data storage using fstream
-
-Input Validation: Preventing invalid menu choices or entries
-
-Formatted Output: Using <iomanip> for a clear, readable console interface
-
 🧱 File Structure
 main.cpp          → main source code
 tasks.txt         → saved task data file
@@ -58,14 +30,7 @@ README.md         → documentation file
 
 Clone this repository
 
-git clone https://github.com/yourusername/todo-list-manager-cpp.git
-cd todo-list-manager-cpp
-
-
 Compile the code
-
-g++ main.cpp -o ToDoList
-
 
 Run the program
 
