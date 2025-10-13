@@ -1,4 +1,4 @@
-# MO-TO-DO-List CMPG-Creative-Project-
+# MO TO-DO List (CMPG Creative Project)
 📖 Description
 
 The Mo To-Do List is a lightweight, console-based productivity application built in C++.
@@ -9,28 +9,31 @@ The program uses file storage to automatically save your progress, ensuring that
 
 The Mo To-Do List helps users:
 
-Keep track of personal or academic tasks
+• Keep track of personal or academic tasks
 
-Prioritize tasks by importance
+• Prioritize tasks by importance
 
-Mark completed tasks and monitor progress
+• Mark completed tasks and monitor progress
 
-Automatically save tasks to a file for persistence
+• Automatically save tasks to a file for persistence
 
-View summaries and completion percentages
+• View summaries and completion percentages
 
 🧱 File Structure
+
 main.cpp          → main source code
+
 tasks.txt         → saved task data file
+
 README.md         → documentation file
 
 💻 How to Run
 
-Clone this repository
+• Clone this repository
 
-Compile the code
+• Compile the code
 
-Run the program
+• Run the program
 
 ./ToDoList
 
