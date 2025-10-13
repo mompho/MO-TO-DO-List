@@ -1,4 +1,4 @@
-# MO-TO-DO-CMPG-Creative-Project-
+# MO-TO-DO-List CMPG-Creative-Project-
 📖 Description
 
 The Mo To-Do List is a lightweight, console-based productivity application built in C++.
